@@ -1,0 +1,19 @@
+# ملفات نظام الماك
+.DS_Store
+._*
+
+# ملفات نظام ويندوز
+Thumbs.db
+Desktop.ini
+
+# ملفات IDE
+.vscode/
+.idea/
+
+# ملفات مؤقتة
+*.tmp
+*.log
+
+# ملفات البيئة
+.env
+*.env.local
